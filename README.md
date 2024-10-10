@@ -11,6 +11,9 @@ Ce projet implémente un système de planification de tâches distribuées en ut
 3. **Worker** : Intermédiaire entre le serveur et les slaves, chaque worker est chargé de la gestion des tâches d'un client et de leur distribution aux slaves.
 4. **Slave** : Traite les sous-tâches assignées par le worker et renvoie les résultats.
 
+## Exemple 
+![image](https://github.com/user-attachments/assets/5fbee044-d544-41a9-ba61-32834b3f1a7e)
+
 ## Technologies
 
 - **Java** : Langage principal utilisé pour construire le système.
@@ -23,7 +26,7 @@ Ce projet a été réalisé par **Hajar EL KOUNI** et **Asma EL BALFYQY** dans l
 
 
 
-![image](https://github.com/user-attachments/assets/5fbee044-d544-41a9-ba61-32834b3f1a7e)
+
 
 
 
