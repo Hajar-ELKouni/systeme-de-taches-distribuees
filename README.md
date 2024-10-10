@@ -21,5 +21,11 @@ Ce projet implémente un système de planification de tâches distribuées en ut
 
 Ce projet a été réalisé par **Hajar EL KOUNI** et **Asma EL BALFYQY** dans le cadre du Master Spécialisé MQL & M2I.
 
-![image](https://github.com/user-attachments/assets/2a854c92-bdae-4e91-9de2-722d3bbaaa3b)
+
+
+
+
+<img src="[URL_DE_VOTRE_IMAGE](https://github.com/user-attachments/assets/1f9389b7-8e9a-47d5-8c0e-13b0ac309ddf)" alt="Description de l'image" width="500" />
+
+
 
