@@ -23,9 +23,8 @@ Ce projet a été réalisé par **Hajar EL KOUNI** et **Asma EL BALFYQY** dans l
 
 
 
+![image](https://github.com/user-attachments/assets/5fbee044-d544-41a9-ba61-32834b3f1a7e)
 
-
-<img src="[URL_DE_VOTRE_IMAGE](https://github.com/user-attachments/assets/1f9389b7-8e9a-47d5-8c0e-13b0ac309ddf)" alt="Description de l'image" width="500" />
 
 
 
