@@ -12,8 +12,11 @@ Ce projet implémente un système de planification de tâches distribuées en ut
 4. **Slave** : Traite les sous-tâches assignées par le worker et renvoie les résultats.
 
 ## Exemple 
-### tache de traitement d'image 
+### Traitement d'image 
 ![image](https://github.com/user-attachments/assets/5fbee044-d544-41a9-ba61-32834b3f1a7e)
+###  Calcule matriciel 
+![image](https://github.com/user-attachments/assets/8b77d7c0-f4f7-4d49-a578-291fc82dd04f)
+
 
 ## Technologies
 
